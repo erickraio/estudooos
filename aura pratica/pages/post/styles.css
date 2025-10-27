@@ -1,0 +1,14 @@
+@import url('../styles/global.css');
+@import url('../styles/header.css');
+@import url('../styles/post.css');
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+
+
+}
+
+.container h2{
+    margin: 1rem 0;
+}

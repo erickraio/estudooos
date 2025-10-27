@@ -1,0 +1,16 @@
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5rem;
+    width: 100vw; /*vw pra deixar do tamanho da pagina toda*/
+    height: 5rem; /*rem pra fazer a partir do tamanho da fonte padrão do navegador*/
+
+    background: #8bc34a;
+}
+
+header a:first-of-type{
+    margin-right: 1rem;
+
+}
